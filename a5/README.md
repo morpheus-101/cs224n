@@ -1,7 +1,9 @@
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0" alt="Assignment 4 blog post">
+
 This assignment builds on top of assignment 4. Check out my medium blogpost on assignment 4 solution.
 [Assignment 4 blog](https://medium.com/@rishikeshdhayarkar1091/neural-machine-translation-a-comprehensive-guide-ef414e79b49?source=friends_link&sk=2a480e785e9104499991441644e9bcef)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0" alt="Assignment 4 blog post">
+
 
 
 
