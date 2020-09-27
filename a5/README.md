@@ -11,17 +11,17 @@ This assignment builds on top of assignment 4. Check out my medium blogpost on a
 Take a look at some Spanish to English translation done by this Neural Machine Translator.</br>
 Test sentences in Spanish 
 <p align="center">
-  <img height="320" width="750" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_es.png">
+  <img height="320" width="770" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_es.png">
 </p>  
 
 English ground truth for the Spanish test sentences
 <p align="center">
-  <img height="320" width="750" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_en.png">
+  <img height="320" width="770" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_en.png">
 </p>  
 
 Test output from the NMT model
 <p align="center">
-  <img height="320" width="750" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_out.png">
+  <img height="320" width="770" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_out.png">
 </p>  
 
 [Results notebook](https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/a5_final.ipynb)  
