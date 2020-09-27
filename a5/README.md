@@ -7,7 +7,7 @@ Take a look at some Spanish to English translation done by this Neural Machine T
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0" alt="Assignment 4 blog post">
   
 <p align="center">
-  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/over_all_nmt.png">
+  <img height="170" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/over_all_nmt.png">
 </p>  
 
 <p align="center">
