@@ -19,27 +19,27 @@ Take a look at some Spanish to English translation done by this Neural Machine T
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step2.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step2.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step3.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step3.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step4.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step4.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step1.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step1.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step2.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step2.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step3.png">
+  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step3.png">
 </p>
 
 <p align="center">
