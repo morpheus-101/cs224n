@@ -21,54 +21,54 @@ English ground truth for the Spanish test sentences
 
 Test output from the NMT model
 <p align="center">
-  <img height="320" width="800 src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_out.png">
+  <img height="320" width="800" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/test_out.png">
 </p>  
 
 [Results notebook](https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/a5_final.ipynb)  
   
   
 <p align="center">
-  <img height="170" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/over_all_nmt.png">
+  <img height="170" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/over_all_nmt.png">
 </p>  
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_1.png">
+  <img height="640" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_1.png">
 </p>
 
 <p align="center">
-  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step1.png">
+  <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step1.png">
 </p>
 
 <p align="center">
-  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step2.png">
+  <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step2.png">
 </p>
 
 <p align="center">
-  <img height="600" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step3.png">
+  <img height="600" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step3.png">
 </p>
 
 <p align="center">
-  <img height="300" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step4.png">
+  <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step4.png">
 </p>
 
 <p align="center">
-  <img height="300" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_1.png">
+  <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_1.png">
 </p>
 
 <p align="center">
-  <img height="300" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_2.png">
+  <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_2.png">
 </p>
 
 <p align="center">
-  <img height="200" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_3.png">
+  <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_3.png">
 </p>
 
 <p align="center">
-  <img height="640" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_2.png">
+  <img height="640" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_2.png">
 </p>
 
 <p align="center">
-  <img height="300" width="660" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_3.png">
+  <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_3.png">
 </p>
 
 
