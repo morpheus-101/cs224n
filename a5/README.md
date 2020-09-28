@@ -1,3 +1,5 @@
+## Neural Machine Translation ##
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishikeshdhayarkar1091/0" alt="Assignment 4 blog post">
 
 This assignment builds on top of assignment 4. Check out my medium blogpost on assignment 4 solution.
@@ -34,43 +36,60 @@ The core idea is that when our word-level decoder produces an unknown toekn(<UNK
 </p>  
 
 First thing that we need to do is to replace the typical 'Embedding lookup' stage with a sequence of operations shown in figure 2. 
-## Convert words to charcater indices ##
 
 <p align="center">
   <img height="640" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_1.png">
 </p>
 
+## Convert words to charcater indices ##
+
 <p align="center">
   <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step1.png">
 </p>
+
+## Padding and embedding lookup ##
 
 <p align="center">
   <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step2.png">
 </p>
 
+## Connvolutional Network ##
+
 <p align="center">
   <img height="600" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step3.png">
 </p>
+
+## Highway layer and dropout ##
 
 <p align="center">
   <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/1_step4.png">
 </p>
 
+## Character based LSTM decoder ## 
+
+<p align="center">
+  <img height="640" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_2.png">
+</p>
+
+## Forward computation of character decoder ##
+
 <p align="center">
   <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_1.png">
 </p>
+
+## Training of character decoder ##
 
 <p align="center">
   <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_2.png">
 </p>
 
+## Decoding from the character decoder ##
+
 <p align="center">
   <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/2_step_3.png">
 </p>
 
-<p align="center">
-  <img height="640" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_2.png">
-</p>
+## Greedy decoding ##
 
 <p align="center">
   <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_3.png">
