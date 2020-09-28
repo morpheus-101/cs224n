@@ -92,10 +92,6 @@ First thing that we need to do is to replace the typical 'Embedding lookup' stag
 ## Greedy decoding ##
 
 <p align="center">
-  <img height="200" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/greedy.png">
-</p>
-
-<p align="center">
   <img height="300" width="700" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/h_3.png">
 </p>
 
