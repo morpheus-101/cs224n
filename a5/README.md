@@ -28,7 +28,7 @@ Test output from the NMT model
 
 [Results notebook](https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/a5_final.ipynb) 
 <p align="center">
-  <img height="320" width="850" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/code_output.png">
+  <img height="320" width="900" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a5/git_pics/code_output.png">
 </p> 
 
 NMT models can be broken down into 4 basic stages. This is shown in the figure below. All these stages create an NMT model at a word level, as discussed in assignment 4 blogpost. The goal of this assignment is to convert a word level NMT model into a character level NMT model. </br>
