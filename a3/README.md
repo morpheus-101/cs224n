@@ -1,6 +1,6 @@
 ## Neural Dependency Parser##
 <p align="center">
-  <img height="900" width="1000" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a3/student/parser/parser_out.png">
+  <img height="800" width="1000" src="https://github.com/RishikeshDhayarkar/cs224n/blob/master/a3/student/parser/parser_out.png">
 </p>
 
 <p align="center">
