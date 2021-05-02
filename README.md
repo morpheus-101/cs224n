@@ -1,2 +1,3 @@
 # cs224n
-Assignments of NLP course at Stanford
+Natural Language processing assignments
+
